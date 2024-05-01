@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm  Prince from .<br><br>- 🔭 I’m working as Web Developer @BIgBuddy AI<br>- 📚 I'm currently learning Machine Learning<br>- ⚡ In my free time read recent articles 📗</p>
+<p align="left">I'm  Prince from Bengaluru,India<br><br>- 🔭 I’m working as Web Developer @BIgBuddy AI<br>- 📚 I'm currently learning Machine Learning<br>- ⚡ In my free time read recent articles 📗</p>
 
 ###
 
